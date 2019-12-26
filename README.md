@@ -15,12 +15,12 @@ The functions used in this project are simple and they basically manipulate file
 >Demo: Add
 <img src="img/add.png"/>
 >Demo: View
-<img src="img/view.png"/>
+<img src=".\img/view.png"/>
 >Demo: Update
-<img src="img/update.png"/>
+<img src=".\img/update.png"/>
 >Demo: Delete
-<img src="img/delete.png"/>
+<img src=".\img/delete.png"/>
 >Demo: Exit
-<img src="img/exit.png"/>
+<img src=".\img/exit.png"/>
 
 :+1: Thanks for stay with me :shipit:
