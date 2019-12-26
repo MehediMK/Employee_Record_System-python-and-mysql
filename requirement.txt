@@ -1,0 +1,3 @@
+python
+pymysql
+local server
