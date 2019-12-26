@@ -12,15 +12,15 @@ Currently, listed below are the only features that make up this project, but you
 
 The functions used in this project are simple and they basically manipulate file handling and data structures. So, I will only describe the gotoxy function used in this project. Try to understand how this functions works as you may want to use it or find it used in many other C mini projects.
 
->Demo: Add
-<img src="img/add.png"/>
->Demo: View
-<img src=".\img/view.png"/>
->Demo: Update
-<img src=".\img/update.png"/>
->Demo: Delete
-<img src=".\img/delete.png"/>
->Demo: Exit
-<img src=".\img/exit.png"/>
+> Demo: Add
+<img src=".\img/add.PNG"/>
+> Demo: View
+<img src=".\img/view.PNG"/>
+> Demo: Update
+<img src=".\img/update.PNG"/>
+> Demo: Delete
+<img src=".\img/delete.PNG"/>
+> Demo: Exit
+<img src=".\img/exit.PNG"/>
 
 :+1: Thanks for stay with me :shipit:
