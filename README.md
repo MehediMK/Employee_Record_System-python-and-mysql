@@ -9,6 +9,9 @@ Currently, listed below are the only features that make up this project, but you
 4. Delete record
 5. Exit
 ```
+#mysql database:
+|id|name|address|sallary|
+|auto_increment(int)|Name(varchar)|Address(varchar)|5000(int)|
 
 The functions used in this project are simple and they basically manipulate file handling and data structures. So, I will only describe the gotoxy function used in this project. Try to understand how this functions works as you may want to use it or find it used in many other C mini projects.
 
